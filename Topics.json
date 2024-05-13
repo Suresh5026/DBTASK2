@@ -1,0 +1,112 @@
+[
+    {
+        "Topic":"Browser & Web",
+        "Date":"01-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"Data Types",
+        "Date":"02-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"JS array& Objects",
+        "Date":"03-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"Functions",
+        "Date":"04-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"OOP in JS",
+        "Date":"05-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"HTML",
+        "Date":"08-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"CSS Day-1",
+        "Date":"09-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"CSS Grid",
+        "Date":"10-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"CSS Media Query & Bootstrap",
+        "Date":"11-Oct-2020",
+        "Task":"HTML & CSS"
+    },
+    {
+        "Topic":"Bootstrap",
+        "Date":"12-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"DOM",
+        "Date":"15-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"Callback",
+        "Date":"16-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"Promise",
+        "Date":"17-Oct-2020",
+        "Task":"Promise"
+    },
+    {
+        "Topic":"React",
+        "Date":"18-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"React-2",
+        "Date":"21-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"React States & hooks",
+        "Date":"22-Oct-2020",
+        "Task":"React hooks & states"
+    },
+    {
+        "Topic":"AXIOS",
+        "Date":"23-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"FORMIK",
+        "Date":"24-Oct-2020",
+        "Task":""
+    },
+    {
+        "Topic":"Context API",
+        "Date":"25-Oct-2020",
+        "Task":"Context API"
+    },
+    {
+        "Topic":"MySQL",
+        "Date":"26-Oct-2020",
+        "Task":"Context API"
+    },
+    {
+        "Topic":"Mongo DB Intro",
+        "Date":"29-Oct-2020",
+        "Task":"Context API"
+    },
+    {
+        "Topic":"MongoDB",
+        "Date":"25-Oct-2020",
+        "Task":"Zen Class Mongo DB create"
+    }
+]

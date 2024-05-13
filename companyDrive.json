@@ -1,0 +1,48 @@
+[
+    {
+        "Company_Name" : "TCS",
+        "Interview_Date" : "01-Oct-2020",
+        "Attended_Students" : ["Suresh","Raju","Rahu"]
+    },
+    {
+        "Company_Name" : "ZOHO",
+        "Interview_Date" : "02-Oct-2020",
+        "Attended_Students" : ["Arun","Mukesh","John"]
+    },
+    {
+        "Company_Name" : "HCL",
+        "Interview_Date" : "07-Oct-2020",
+        "Attended_Students" : ["Anbu","Kavin","Maria","Lilly"]
+    },
+    {
+        "Company_Name" : "ZOHO",
+        "Interview_Date" : "15-Oct-2020",
+        "Attended_Students" : ["Arun","Mukesh","John","Suresh","Raju","Rahu"]
+    },
+    {
+        "Company_Name" : "HCL",
+        "Interview_Date" : "18-Oct-2020",
+        "Attended_Students" : ["Prem","Praveen","Prabhu","Arun","Mukesh","John","Suresh","Raju","Rahu"]
+    },
+    {
+        "Company_Name" : "FACEBOOK",
+        "Interview_Date" : "21-Oct-2020",
+        "Attended_Students" : ["Mukesh","John","Suresh","Raju","Rahu"]
+    },
+    {
+        "Company_Name" : "GOOGLE",
+        "Interview_Date" : "28-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","Kavin","John","Suresh","Raju","Rahu"]
+    },
+    {
+        "Company_Name" : "INFOSYS",
+        "Interview_Date" : "31-Oct-2020",
+        "Attended_Students" : ["Mukesh","John","Suresh","Raju","Rahu"]
+    },
+    {
+        "Company_Name" : "TCS",
+        "Interview_Date" : "31-Nov-2020",
+        "Attended_Students" : ["Anbu","Arun","Kavin","John","Suresh","Raju","Rahu","Prem","Praveen","Prabhu"]
+    }
+    
+]

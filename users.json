@@ -1,0 +1,25 @@
+[
+    {
+        "students_name" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh"],
+        "course_name" : "JAVA",
+        "mentor_name" : "Vignesh",
+        "batch_name" : "Batch Java -1"
+        
+    },
+    {
+        "students_name" : ["Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "course_name" : "Python",
+        "mentor_name" : "Pugzhal",
+        "batch_name" : "Batch Python"
+        
+    },
+    {
+        "students_name" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "course_name" : "MERN STACK",
+        "mentor_name" : "Vishnu",
+        "batch_name" : "Batch Full stack"
+        
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "Date" : "03-Oct-2020",
+        "Task Name" : "JS array & objects",
+        "Completed_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "not_complete_students" : []
+    },
+    {
+        "Date" : "05-Oct-2020",
+        "Task Name" : "OOP in JS",
+        "Completed_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "not_complete_students" : []
+    },
+    {
+        "Date" : "11-Oct-2020",
+        "Task Name" : "HTML & CSS",
+        "Completed_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "not_complete_students" : []
+    },
+    {
+        "Date" : "17-Oct-2020",
+        "Task Name" : "Promise",
+        "Completed_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "not_complete_students" : ["SakthiVel","Sundar","Suresh","Ravi","Prem"]
+    },
+    {
+        "Date" : "22-Oct-2020",
+        "Task Name" : "React hooks & states",
+        "Completed_Students" : ["Anbu","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "not_complete_students" : ["Arun","John","Kavin","Lilly","Maria"]
+    },
+    {
+        "Date" : "25-Oct-2020",
+        "Task Name" : "Context API",
+        "Completed_Students" : ["Anbu","Arun","John","Kavin","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "not_complete_students" : ["Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi"]
+    },
+    {
+        "Date" : "31-Oct-2020",
+        "Task Name" : "Zen Class Mongo DB create",
+        "Completed_Students" : ["Anbu","Vinod"],
+        "not_complete_students" : ["Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel"]
+    }
+    
+
+]

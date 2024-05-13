@@ -1,0 +1,155 @@
+[
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "01-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : ["Prem","Rahu"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "02-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "03-Oct-2020",
+        "Attended_Students" : ["Anbu","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : ["Arun","Sundar"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "04-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : ["Raju"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "05-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "08-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "09-Oct-2020",
+        "Attended_Students" : [],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "10-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "11-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","Sugumar","Vel","Vinod"],
+        "Absentees" : ["SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "12-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "15-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "16-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "17-Oct-2020",
+        "Attended_Students" : ["Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "18-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "19-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "22-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : ["SakthiVel","Sundar","Suresh","Ravi"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "23-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "24-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "25-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "26-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : ["Lilly","Maria","Michel"]
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "29-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    },
+    {
+        "Name of the Course" : "MERN Stack",
+        "Date" : "31-Oct-2020",
+        "Attended_Students" : ["Anbu","Arun","John","Kavin","Lilly","Maria","Michel","Mukesh","Peter",
+        "Prabhu","Rajesh","Raju","SakthiVel","Sundar","Suresh","Ravi","Prem","Rahu","Victor","Sugumar","Vel","Vinod"],
+        "Absentees" : []
+    }
+]
